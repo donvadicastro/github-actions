@@ -2,7 +2,7 @@ name: gh-pages-publish
 on:
   push:
     branches:
-      - gh-pages-publish
+      - master
 
 jobs:
   build:
