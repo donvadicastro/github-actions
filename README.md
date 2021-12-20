@@ -1,2 +1,4 @@
-# github-actions
-Collection of github actions
+# Github actions
+Collection of common github actions.
+
+
